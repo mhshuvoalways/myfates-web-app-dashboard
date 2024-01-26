@@ -1,0 +1,1 @@
+export const ALERT_TYPE = "ALERT_TYPE";

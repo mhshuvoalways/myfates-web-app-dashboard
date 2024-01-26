@@ -1,0 +1,166 @@
+{
+  "form": {
+    "fName": "First Name",
+    "lName": "Last Name",
+    "email": "Email",
+    "genderText": "Gender",
+    "gender": ["Male", "Female"],
+    "bt": "Birth Date & Time",
+    "ymd": ["Year", "Month", "Day"],
+    "dk": "I know my birth time",
+    "btn": "Submit"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which do you feel more comfortable?",
+      "firstAns": {
+        "option": "Mountain",
+        "personality": ""
+      },
+      "secAnd": {
+        "option": "Ocean",
+        "personality": ""
+      }
+    },
+    {
+      "id": 2,
+      "question": "Which do you feel more comfortable?",
+      "firstAns": {
+        "option": "Sun",
+        "personality": ""
+      },
+      "secAnd": {
+        "option": "Moon",
+        "personality": ""
+      }
+    },
+    {
+      "id": 3,
+      "question": "Which do you feel more comfortable?",
+      "firstAns": {
+        "option": "Sky",
+        "personality": ""
+      },
+      "secAnd": {
+        "option": "Ground",
+        "personality": ""
+      }
+    },
+    {
+      "id": 4,
+      "question": "Which do you feel more comfortable?",
+      "firstAns": {
+        "option": "Ice",
+        "personality": ""
+      },
+      "secAnd": {
+        "option": "Fire",
+        "personality": ""
+      }
+    },
+    {
+      "id": 5,
+      "question": "After a long day what situation would you feel more comfortable?",
+      "firstAns": {
+        "option": "Friends waiting for you to be together.",
+        "personality": "P"
+      },
+      "secAnd": {
+        "option": "Being alone and going over your thoughts and questions.",
+        "personality": "K"
+      }
+    },
+    {
+      "id": 6,
+      "question": "When faced with a problem in a work or project?",
+      "firstAns": {
+        "option": "Prefer brainstorming novel ideas and theoretical solutions that haven't been tried before.",
+        "personality": "O"
+      },
+      "secAnd": {
+        "option": "Focus on practical, tried-and-true methods and data-driven approaches",
+        "personality": "G"
+      }
+    },
+    {
+      "id": 7,
+      "question": "In a situation where there is a conflict between colleagues at worK?",
+      "firstAns": {
+        "option": "Prioritize understanding each person’s feelings and values to reach a harmonious solution.",
+        "personality": "E"
+      },
+      "secAnd": {
+        "option": "Prefer to resolve the issue by objectively assessing the facts and interests",
+        "personality": "B"
+      }
+    },
+    {
+      "id": 8,
+      "question": "When faced with a work deadline?",
+      "firstAns": {
+        "option": "Tend to start closer to the deadline, finding that the time pressure can be stimulating and productive",
+        "personality": "X"
+      },
+      "secAnd": {
+        "option": "Start working on the task well in advance to ensure it’s completed on time",
+        "personality": "R"
+      }
+    }
+  ],
+  "datacreating": "Creating your reports...",
+  "dashboard": {
+    "reports": {
+      "as": "Avarage score",
+      "se": "Score Eval",
+      "today": "Today",
+      "tmrw": "Tomorrow",
+      "count": {
+        "mainbtn": "Begin",
+        "rbtn": "Reset",
+        "resumebtn": "Resume",
+        "pausebtn": "Pause",
+        "cd": {
+          "title": "Cound Down",
+          "btn": "Countdown on Off",
+          "bma": "Begin meditation after",
+          "sec": "Seconds",
+          "ms": "Move the slider to set the count down",
+          "afstart": "Meditation Starting In",
+          "mf": "Meditation Finished"
+        },
+        "duration": {
+          "title": "Duration",
+          "mt": "Meditation time",
+          "ms": "Move the slider to set the duration"
+        },
+        "interval": {
+          "title": "Interval",
+          "btn": "Interval Bell on Off",
+          "re": "Ring every",
+          "minutes": "Minutes",
+          "am": "Adjust minutes",
+          "as": "Adjust seconds"
+        }
+      },
+      "prayers": {
+        "title": "Prayers",
+        "ph": "What you wish for",
+        "btn": "Submit",
+        "sd": "Your prayers will be heard"
+      }
+    },
+    "account": {
+      "ao": "Account Overview",
+      "name": "Name",
+      "email": "Email",
+      "db": "Date of Birth",
+      "jd": "Joined in myfates",
+      "subscTitle": "Subscription",
+      "sp": "Subscription Plan",
+      "se": "Subscription will be expired",
+      "cbtn": "Cancel Subscription",
+      "modal": "Do you want to end your connection to your future?"
+    }
+  }
+}

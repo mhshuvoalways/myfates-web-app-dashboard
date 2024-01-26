@@ -1,0 +1,166 @@
+{
+  "form": {
+    "fName": "姓",
+    "lName": "名",
+    "email": "Eメール",
+    "gender": ["男性", "女性"],
+    "genderText": "性別",
+    "bt": "生年月日と出生時刻",
+    "ymd": ["年", "月", "日"],
+    "dk": ":出生時刻が分からない。",
+    "btn": "送信"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "どちらがより快適に感じますか？",
+      "firstAns": {
+        "option": "山",
+        "personality": ""
+      },
+      "secAnd": {
+        "option": "海",
+        "personality": ""
+      }
+    },
+    {
+      "id": 2,
+      "question": "どちらがより快適に感じますか？",
+      "firstAns": {
+        "option": "太陽",
+        "personality": ""
+      },
+      "secAnd": {
+        "option": "月",
+        "personality": ""
+      }
+    },
+    {
+      "id": 3,
+      "question": "どちらがより快適に感じますか？",
+      "firstAns": {
+        "option": "空",
+        "personality": ""
+      },
+      "secAnd": {
+        "option": "陸",
+        "personality": ""
+      }
+    },
+    {
+      "id": 4,
+      "question": "どちらがより快適に感じますか？",
+      "firstAns": {
+        "option": "氷",
+        "personality": ""
+      },
+      "secAnd": {
+        "option": "火",
+        "personality": ""
+      }
+    },
+    {
+      "id": 5,
+      "question": "仕事が多かった1日の終わりにどちらの状況があなたにとってより良いですか？",
+      "firstAns": {
+        "option": "友達が一緒にいるためにあなたを待っている",
+        "personality": "P"
+      },
+      "secAnd": {
+        "option": "考えや課題を整理するために一人でいる",
+        "personality": "K"
+      }
+    },
+    {
+      "id": 6,
+      "question": "仕事やプロジェクトで問題に直面したら...",
+      "firstAns": {
+        "option": "これまでに試されたことのない斬新なアイデアや理論的な解決策を出し合うを好む",
+        "personality": "O"
+      },
+      "secAnd": {
+        "option": "実用的で、試行錯誤を重ねた手法やデータ主導のアプローチを重視する",
+        "personality": "G"
+      }
+    },
+    {
+      "id": 7,
+      "question": "職場の同僚と対立した場合",
+      "firstAns": {
+        "option": "各々の感情や価値観を理解することを優先し、調和のとれた解決に導",
+        "personality": "E"
+      },
+      "secAnd": {
+        "option": "事実と利害を客観的に判断して問題を解決することを優先する",
+        "personality": "B"
+      }
+    },
+    {
+      "id": 8,
+      "question": "仕事の締め切りに迫った時",
+      "firstAns": {
+        "option": "締め切り間際に取り掛かる傾向があり、時間的プレッシャーが刺激となり効果的な成果を生み出すことに気づく",
+        "personality": "X"
+      },
+      "secAnd": {
+        "option": "期限内に完成させるために、余裕をもって仕事に取りかかる",
+        "personality": "R"
+      }
+    }
+  ],
+  "datacreating": "データの作成中...",
+  "dashboard": {
+    "reports": {
+      "as": "平均スコア",
+      "se": "スコア評価",
+      "today": "今日",
+      "tmrw": "明日",
+      "count": {
+        "mainbtn": "開始",
+        "rbtn": "リセット",
+        "resumebtn": "再開する",
+        "pausebtn": "一時停止",
+        "cd": {
+          "title": "秒読み",
+          "btn": "カウントダウンオフ",
+          "bma": "瞑想開始",
+          "sec": "秒",
+          "ms": "スライダーを動かしてカウントダウンを設定します",
+          "afstart": "瞑想を始める",
+          "mf": ": 瞑想終了"
+        },
+        "duration": {
+          "title": "継続時間",
+          "mt": "瞑想時間",
+          "ms": "スライダーを動かして時間を設定します"
+        },
+        "interval": {
+          "title": "インターバル",
+          "btn": "インターバル ベルオン",
+          "re": "鳴ら",
+          "minutes": "分",
+          "am": "分の調整",
+          "as": "秒の調整"
+        }
+      },
+      "prayers": {
+        "title": "祈り",
+        "ph": "あなたが望むこと",
+        "btn": "提出する",
+        "sd": "あなたの祈りは聞き届けられるでしょう"
+      }
+    },
+    "account": {
+      "ao": "口座[アカウント]状況",
+      "name": "名前",
+      "email": "Eメール",
+      "db": "生年月日",
+      "jd": "私の運命に参加しました",
+      "subscTitle": "サブスクリプション",
+      "sp": "定期購読プラン",
+      "se": "サブスクリプションの有効期限が切れます",
+      "cbtn": "サブスクリプションをキャンセルする",
+      "modal": "未来とのつながりを断ち切りたいですか？"
+    }
+  }
+}

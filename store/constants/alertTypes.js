@@ -1,0 +1,2 @@
+export const ALERT_TYPE = "ALERT_TYPE";
+export const CLEAR_ALERT_TYPE = "CLEAR_ALERT_TYPE";
